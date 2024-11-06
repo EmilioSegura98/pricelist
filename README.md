@@ -1,1 +1,1 @@
-# pricelist
+# user_pricelist_restrictions
