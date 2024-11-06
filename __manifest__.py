@@ -10,8 +10,6 @@
         'security/user_pricelist_restrictions_security.xml',
         'views/sale_order_view.xml',
     ],
-    'demo':[],
     'installable': True,
     'application': False,
-    'auto_install':False,
 }
