@@ -4,7 +4,7 @@
     'category': 'Sales',
     'summary': 'Restrict pricelist access for certain users',
     'description': 'Allows configuration of price lists accessible only by specific users.',
-    'author':'Emilio Segura De Echavarri'
+    'author':'Emilio Segura De Echavarri',
     'depends': ['sale', 'product'],
     'license':'LGPL-3',
     'data': [
