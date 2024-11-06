@@ -1,6 +1,6 @@
 {
     'name': 'User Pricelist Restrictions',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Sales',
     'summary': 'Restrict pricelist access for certain users',
     'description': 'Allows configuration of price lists accessible only by specific users.',
