@@ -1,5 +1,5 @@
 {
-    'name': 'pricelist',
+    'name': 'User Pricelist Restrictions',
     'version': '1.0',
     'category': 'Sales',
     'summary': 'Restrict pricelist access for certain users',
