@@ -1,8 +1,0 @@
-<odoo>
-    <record id="pricelist_access_rule" model="ir.rule">
-        <field name="name">Pricelist Access Rule</field>
-        <field name="model_id" ref="product.model_product_pricelist"/>
-        <field name="domain_force">[('id', 'in', user.allowed_pricelists.ids)]</field>
-        <field name="groups" eval="[(4, ref('base.group_user'))]"/>
-    </record>
-</odoo>
