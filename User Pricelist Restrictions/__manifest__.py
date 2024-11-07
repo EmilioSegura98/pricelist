@@ -4,9 +4,7 @@
     'category': 'Sales',
     'summary': 'Restrict pricelist access for certain users',
     'description': 'Allows configuration of price lists accessible only by specific users.',
-    'author':'Emilio Segura De Echavarri',
     'depends': ['sale', 'product'],
-    'license':'LGPL-3',
     'data': [
         'security/ir.model.access.csv',
         'security/user_pricelist_restrictions_security.xml',
@@ -14,5 +12,4 @@
     ],
     'installable': True,
     'application': False,
-    'auto_install': False,
 }
